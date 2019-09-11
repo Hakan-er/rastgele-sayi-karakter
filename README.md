@@ -3,4 +3,4 @@
  Oluşturulan rastgele değerler hazır hiçbir rastgele kütüphanesini kullanmamaktadır.
  
  Örnek Çıktı:
- ![Çizim,Paint,Şekil,Draw](https://github.com/HakanEryucel/cizim-programi/blob/master/Screenshots/Cikti.jpg)
+ ![Cikti](https://github.com/HakanEryucel/cizim-programi/blob/master/Cikti.jpg)
